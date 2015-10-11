@@ -99,6 +99,7 @@ dependencies {
         exclude group: 'com.android.support'
     }
 
+    compile rootProject.ext.regularDependencies.picasso
 }
 install {
     repositories.mavenInstaller{
