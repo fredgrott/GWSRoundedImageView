@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">GWSRoundedImageView</string>
+    <string name="picasso_app_name">GWSRoundedPicassoView</string>
+
+    <string-array name="action_list">
+        <item>Bitmap</item>
+        <item>Ovals</item>
+        <item>Picasso</item>
+        <item>Color</item>
+    </string-array>
+
 </resources>
