@@ -6,6 +6,8 @@ import android.app.Fragment;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 
+
+@SuppressWarnings("deprecation")
 public class ExampleActivity extends Activity implements ActionBar.OnNavigationListener {
 
   @Override protected void onCreate(Bundle savedInstanceState) {
