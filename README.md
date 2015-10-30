@@ -18,7 +18,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSRoundedImageView:1.0.0.0@aar'
+compile 'com.github.shareme:GWSRoundedImageView:{latest-release-number}@aar'
 ```
 
 
